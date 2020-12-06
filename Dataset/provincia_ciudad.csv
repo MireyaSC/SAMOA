@@ -1,0 +1,53 @@
+ID;Ciudad;CCAA
+1;Almería;Andalucía
+2;Cádiz;Andalucía
+3;Córdoba;Andalucía
+4;Granada;Andalucía
+5;Huelva;Andalucía
+6;Jaén;Andalucía
+7;Málaga;Andalucía
+8;Sevilla;Andalucía
+9;Huesca;Aragón
+10;Teruel;Aragón
+11;Zaragoza;Aragón
+12;Asturias;Asturias, Principado de
+13;Balears, Illes;Balears, Illes
+14;Palmas, Las;Canarias
+15;Santa Cruz de Tenerife;Canarias
+16;Cantabria;Cantabria
+17;Ávila;Castilla y León
+18;Burgos;Castilla y León
+19;León;Castilla y León
+20;Palencia;Castilla y León
+21;Salamanca;Castilla y León
+22;Segovia;Castilla y León
+23;Soria;Castilla y León
+24;Valladolid;Castilla y León
+25;Zamora;Castilla y León
+26;Albacete;Castilla-La Mancha
+27;Ciudad Real;Castilla-La Mancha
+28;Cuenca;Castilla-La Mancha
+29;Guadalajara;Castilla-La Mancha
+30;Toledo;Castilla-La Mancha
+31;Barcelona;Cataluña
+32;Girona;Cataluña
+33;Lleida;Cataluña
+34;Tarragona;Cataluña
+35;Alicante/Alacant;Comunitat Valenciana
+36;Castellón/Castelló;Comunitat Valenciana
+37;Valencia/València;Comunitat Valenciana
+38;Badajoz;Extremadura
+39;Cáceres;Extremadura
+40;Coruña, A;Galicia
+41;Lugo;Galicia
+42;Ourense;Galicia
+43;Pontevedra;Galicia
+44;Madrid;Madrid, Comunidad de
+45;Murcia;Murcia, Región de
+46;Navarra;Navarra, Comunidad Foral de
+47;Araba/Álava;País Vasco
+48;Bizkaia;País Vasco
+49;Gipuzkoa;País Vasco
+50;Rioja, La;Rioja, La
+52;Ceuta;Ceuta
+53;Melilla;Melilla
