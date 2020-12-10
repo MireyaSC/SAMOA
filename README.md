@@ -10,7 +10,8 @@ SAMOA es una empresa de servicios IT orientada al mundo profesional y empresaria
 
 *Nuestro Equipo*
 
-**Carlos Marín**
+**Carlos Marín**. 
+
 **Fernando Marín**
 **Mireya Sánchez**
 **Santiago Jacobo**
